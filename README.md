@@ -77,9 +77,13 @@ The goal of this project is to **identify operational bottlenecks**, **optimize 
 
 ---
 
-### 🔹 Excel — Inventory Analysis Dashboard
+### 🔹 Excel — Inventory Analysis Dashboard (excel)
 
-**File:** `Excel/Inventory_Analysis_Dashboard.xlsx`
+
+Due to GitHub file size limitations, the Excel dashboard file is hosted externally.
+
+🔗 **Download Excel Dashboard:**  
+👉 [Google Drive Link](https://docs.google.com/spreadsheets/d/1Y5ScL8veOzMS8mUG9xRcPujad4_i97CG/edit?usp=sharing&ouid=108105788235414761340&rtpof=true&sd=true)
 
 **Focus Areas:**
 - Top stores and products by sales
